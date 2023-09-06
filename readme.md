@@ -3,7 +3,7 @@
 nanoKONTROL2
 https://www.korg.com/jp/products/computergear/nanokontrol2/
 
-# Recommend environment
+# Recommend system
 
 - OS: Windows11
 - Version: TouchDesigner 2022.33910-
